@@ -1,4 +1,4 @@
-# del_mc2
+# DEL Mini-Challenge 2
 
 Author: Lukas Reber
 
